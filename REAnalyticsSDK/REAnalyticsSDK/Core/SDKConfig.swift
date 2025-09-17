@@ -47,3 +47,5 @@ import Foundation
     case hundredMeters = 2
     case kilometer = 3
 }
+
+//Test
